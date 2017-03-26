@@ -1,6 +1,6 @@
 # bloog
 
-[**Example ✨**](https://jongacnik.github.io/bloog/)
+[**Example ✨**](http://bloog.surge.sh/)
 
 Tiny [choo](https://github.com/yoshuawuyts/choo) app which inlines markdown files to create a blog complete with pagination and permalinks.
 
@@ -14,4 +14,3 @@ This is verrrry simple, but perhaps that's all we need sometimes.
   - `npm start` runs blog locally for development
   - `npm run new` makes a new post
   - `npm run dist` builds blog for production into **dist**
-  - `npm run deploy` deploys your site to github pages [from **dist**](https://gist.github.com/cobyism/4730490)
