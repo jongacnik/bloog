@@ -7,7 +7,7 @@
     "start": "budo index.js -l -P -- -t read-directory/transform",
     "dist": "browserify -t read-directory/transform -t unassertify -g yo-yoify -g uglifyify index.js > dist/bundle.js",
     "new": "touch posts/$(date +'%Y%m%d%H%M%S').md",
-    "deploy": "npm run build && git subtree push --prefix dist origin gh-pages"
+    "deploy": "npm run dist && git subtree push --prefix dist origin gh-pages"
   },
   "keywords": ["choo", "markdown", "static", "blog"],
   "author": "Jon Gacnik <jon@folderstudio.com> (http://jongacnik.com)",

@@ -14,4 +14,4 @@ This is verrrry simple, but perhaps that's all we need sometimes.
   - `npm start` runs blog locally for development
   - `npm run new` makes a new post
   - `npm run dist` builds blog for production into **dist**
-  - `npm run deploy` deploys your site to github pages from **dist**
+  - `npm run deploy` deploys your site to github pages [from **dist**](https://gist.github.com/cobyism/4730490)
