@@ -1,7 +1,7 @@
 {
   "name": "choob",
   "version": "0.0.0",
-  "description": "kinda static choo markdown blog",
+  "description": "kinda static, choo markdown blog",
   "main": "index.js",
   "scripts": {
     "start": "budo index.js -l -P -- -t read-directory/transform",
