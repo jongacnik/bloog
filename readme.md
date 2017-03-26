@@ -1,6 +1,6 @@
 # bloog
 
-[**Example ✨**](https://github.com/jongacnik/bloog)
+[**Example ✨**](https://jongacnik.github.io/bloog/)
 
 Tiny [choo](https://github.com/yoshuawuyts/choo) app which inlines markdown files to create a blog complete with pagination and permalinks.
 
