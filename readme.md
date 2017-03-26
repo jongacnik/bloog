@@ -14,3 +14,4 @@ This is verrrry simple, but perhaps that's all we need sometimes.
   - `npm start` runs blog locally for development
   - `npm run new` makes a new post
   - `npm run dist` builds blog for production into **dist**
+  - `npm run deploy` deploy to [surge](http://surge.sh/) (make sure to change url)
